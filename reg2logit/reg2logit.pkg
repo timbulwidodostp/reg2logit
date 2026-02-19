@@ -1,0 +1,4 @@
+D 'reg2logit': Approximates logistic regression parameters using OLS linear regression Use reg2logit With STATA 19
+D
+F reg2logit.ado
+F reg2logit.sthlp
