@@ -1,6 +1,8 @@
 # reg2logit
 Approximates logistic regression parameters using OLS linear regression Use reg2logit With STATA 19
 
+https://www.youtube.com/watch?v=VSv29PHTbx4
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
